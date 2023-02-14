@@ -8,7 +8,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Title>Frameworks para Aplicativos Mobile Híbridos</Title>
+      <Title>Frameworks for Hybrid Mobile Applications</Title>
       <ScrollView>
       {
         data.map((x) => {
